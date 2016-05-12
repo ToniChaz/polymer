@@ -257,3 +257,5 @@ sftp-config.json
 ### Polymer ###
 #Installed components via bower
 bower_components/
+.tmp
+.publish/
